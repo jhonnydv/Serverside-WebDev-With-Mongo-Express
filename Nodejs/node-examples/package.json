@@ -1,0 +1,20 @@
+{
+  "name": "serverside-webdev-with-mongo-express",
+  "version": "1.0.0",
+  "description": "server side application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonnydv/Serverside-WebDev-With-Mongo-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonnydv/Serverside-WebDev-With-Mongo-Express/issues"
+  },
+  "homepage": "https://github.com/jhonnydv/Serverside-WebDev-With-Mongo-Express#readme"
+}
